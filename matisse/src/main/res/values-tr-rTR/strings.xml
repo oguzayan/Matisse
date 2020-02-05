@@ -32,4 +32,7 @@
     <string name="error_file_type">Desteklenmeyen dosya tipi</string>
     <string name="error_type_conflict">Görüntüleri ve videoları aynı anda seçemezsiniz</string>
     <string name="error_no_video_activity">Video önizlemesini destekleyen hiçbir uygulama bulunamadı</string>
+    <string name="button_original">Original</string>
+    <string name="button_sure_default">Uygula</string>
+    <string name="button_sure">Uygula(%1$d)</string>
 </resources>
